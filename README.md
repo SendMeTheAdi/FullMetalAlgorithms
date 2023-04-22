@@ -1,3 +1,2 @@
 # FullMetalAlgorithms
-# Valor is here
-# Honor is here
+Group project by Adi, Prateek, Will, and Val
